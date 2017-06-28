@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Likesalmon.net</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://likesalmon.net/"/>
+  <updated>2017-06-28T04:03:37.000Z</updated>
+  <id>http://likesalmon.net/</id>
+  
+  <author>
+    <name>Ammon Morris</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>OMG My Blog Just Died</title>
+    <link href="http://likesalmon.net/2017/06/27/OMG-My-Blog-Just-Died/"/>
+    <id>http://likesalmon.net/2017/06/27/OMG-My-Blog-Just-Died/</id>
+    <published>2017-06-28T03:49:09.000Z</published>
+    <updated>2017-06-28T04:03:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Long-Live-My-New-Blog"><a href="#Long-Live-My-New-Blog" class="headerlink" title="Long Live My New Blog"></a>Long Live My New Blog</h2><p>Alas, my hosting service upgraded my server and my long-neglected Wordpress blog is doesn’t work anymore. I’m taking it as a sign that I need to pay more attention to such things so took the opportunity to give <a href="https://hexo.io" target="_blank" rel="external">Hexo</a> a spin. </p>
+<p>So far? Good! I like the CLI tools, and I love typing in markdown. Plus the setup is fast: half hour ago I never heard of Hexo and now here I am blogging away. Down side, the themes are <em>meh</em>. Fine, I’m a front-end developer, I’ll make my own. Someday.</p>
+<p>Now to type up the post that made me check my site in the first place: Webdata in React!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Long-Live-My-New-Blog&quot;&gt;&lt;a href=&quot;#Long-Live-My-New-Blog&quot; class=&quot;headerlink&quot; title=&quot;Long Live My New Blog&quot;&gt;&lt;/a&gt;Long Live My New Blog&lt;/
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
